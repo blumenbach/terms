@@ -8,8 +8,8 @@ $query = 'PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>' .
           'SELECT ?o ?label ?desc WHERE { ' .
           $sitelink .
           ' schema:about ?o .' .
-          '?o rdfs:label ?label filter(lang(?label) = "en") .' .
-          'OPTIONAL {?o schema:description ?desc filter(lang(?desc) = "en")}' .
+          '?o rdfs:label ?label filter(lang(?label) = "de") .' .
+          'OPTIONAL {?o schema:description ?desc filter(lang(?desc) = "de")}' .
           '}';
 $uri = 'https://query.wikidata.org/sparql?query=';
 $curl = curl_init();
