@@ -1,0 +1,5674 @@
+<root><term id='iron'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Acorn+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='acron'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='adder'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Amber'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Amedabad+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='amzell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ant'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ant+eater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='ant+eater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='arsenical+mundick'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Atrypa'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q1979955</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Atrypa</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Auk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Baboon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Badger'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='barbadoes+millet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Barnacle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q220457</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Cirripedia</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Bat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bear'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='beauty'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Beaver'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bee'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bee+eater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bee+eater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Beef+eater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='beefeater'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Beetle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bell+metal+arc'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bivalve'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+cap'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle+cap'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle+cock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle+jack'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Black+beetle+lead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+cock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+eagle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+jack'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q2386397</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Caranx lugubris</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='black+lead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+martin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='black+wad'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='blackbird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='blackmoors+teeth'></term>
+<term id='Cuthberts+duck'></term>
+<term id='Gad+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Galibi+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gannet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gaper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Garpike'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gavial'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Glow+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='glow+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Glutton'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gnat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Goat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Goat+sucker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='goatsucker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gold+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='golden+eagle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='golden+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='goldfinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='goldfish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q123141</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Carassius auratus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='goos+ander'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Goose'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Goose+ander'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Goose+hawk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='goosehawk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Grakle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Grampus'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q15631679</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Grampus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='grand+aigle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gras+hopper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='grashopper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='great+hornowl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='great+shrike'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='greater+linnet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='green+sparrow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Green+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='greenfinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='grey+hound'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='grey+copper+ore'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Grous'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Guinea+pig'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='guiney+hen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Guiney+pig'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Guiney+hen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Gull'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hadock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Haematites'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hair+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='hairworm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hare'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hawfinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q174088</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Coccothraustes coccothraustes</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Hedge+hog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hedge+sparrow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='hedge+hog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Helmed+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='hen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Heron'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Holibut'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='horn+of+plenty'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Hornet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='hornowl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Horse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Horse+leech'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Horse+shoe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='horse+shoe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='horseleech'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='house+swallow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Humble+bee'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Humming+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='indian+tourtle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ink+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ink.+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Izard'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jackdaw'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q25394</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Corvus monedula</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Jacobine'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jay'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jayet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jointed+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='jointed+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Jumar'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Keswick+lead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Keswick+lead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Kingsfisher'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Kite'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lady+cow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lady+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lady+cow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lamprey'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lanthorn+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='lap+dog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lapwing'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='lead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Leech'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Leimen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Leopard+cowry+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='lesser+linnet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Limpet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Linnet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lion'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='litte+old+wife'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='little+owl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lizard'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Load+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Loam'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lobster'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Lumpsucker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q30066</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Cyclopterus lumpus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Mackrel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Madrepore'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q3024725</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Madrepora</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Magpie'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q1813704</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Protoploea apatela</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Man+of+war'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Manakin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Marle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Martin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='mastiff'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Menorrhagia'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Millers+thumb'></term>
+<term id='Mountain+cat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Mouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Mundick'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='muscle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Musk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='musk+ox'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Mussel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Night+raven'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Nightingale'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='nun'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='nut+cracker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Nut+cracker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Nut+hatch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='oil+beetle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Oil+heetle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Old+wife'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Osprey'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ostrich'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Owl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ox'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Oyster'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Oyster+catcher'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='oyster+catcher'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='paper+sailor'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Parrot'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Partridge'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Peacock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Peat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='perch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q600262</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Perca</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='periwincle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Petechiae'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Pheasant'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Phytolith'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='pierce+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Pigeon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Pike'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='pine+martin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Pipe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Piper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q159536</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Piper</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Plaise'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Plant+louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='plover'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q139321</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Charadriinae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Pogge'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='pol+cat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Pole+cat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='polecat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q83244</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Mephitidae</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q30097</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Putorius</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='ponderous+spar'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Porcupine'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Porcupine+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='porcupine+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Porpesse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Porpoise'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Portuguese+man+of+war'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Puffin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='pugdog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='pumice+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Punger'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Quartz'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='quicksilver'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rabbet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='rabbit'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rackun'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rail'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rattle+snake'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Raven'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ravenous'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Razor+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q2248806</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Ensis arcuatus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Red+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='red+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Red+breast'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Red+chalk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='red+cork+like+wad'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Red+start'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Red+wing'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='red+backed+shrike'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='red+breasted+blackbird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='red+chalk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='redstart'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q26620</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Phoenicurus phoenicurus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='redwing'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='rellmouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='REPTILES'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rere+mouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Reremouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rhomb+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='ring+dove'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='rock+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Roe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Roller'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rook'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='rough+sooted'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='dove'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q10856</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Columbidae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='round+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Round+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ruby+ore'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ruff'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ruffe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Rype'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sable'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q26423</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Martes zibellina</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='sailor'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='salmon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q2796766</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Salmoninae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Sand+launce'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sand+launce'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sandkrab'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sandmartin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='saw+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sawfish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q2937672</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Pristiformes</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Scallop'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Schistus'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Schout+by+Nacht'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='screw'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sea+hedgehog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+crow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+devil'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sea+eagle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q147403</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Haliaeetus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='sea+ear'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+egg'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+horse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+lark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sea+muscle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sea+otter'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q41407</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Enhydra lutris</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='sea+pie'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sea+turtle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Seal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shad'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shaker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q611479</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Cucullia umbratica</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='shea+toulou'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sheep'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sheldappel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sheldapple'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shepherd'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='shock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='shore+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shorebird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shoveler'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shrew'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shrike'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q171052</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Laniidae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Shrimp'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Shrite'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='silver'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='silver+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Siskin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Skate'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Skunk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sky+lark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Slate'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Slickensides'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sloth'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Slow+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Slug'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Smelt'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Smiris'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Snail'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Snake+stones'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Snipe'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='snow+bunting'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Snow+bunting'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Soap+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Soland+goose'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='song+thrush'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sparrow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sparrow+bawk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sparrow+hawk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Spelter'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Spider'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='spoon+bill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Spoonbill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sprat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Spring+tail'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Squid'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Squirrel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Stag'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q23390</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Cervidae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Stag+beatle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='stair+case'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='star+gazer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Stare'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Stargazer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q183280</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Uranoscopidae</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Sterling'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Stickleback'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sting+ray'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Stoat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='stonemarrow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Storck'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='stork'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Storm+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='stream+tin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='stream+works'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sturgeon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sucking+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sucking+fisch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sulfur'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Sun+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Swallow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Swan'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Swan+goose'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='swan+goose'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q31354</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Anser cygnoides</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Swift'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='sword+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Swordfish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Syenites'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tape+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='tape+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tarrock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tench'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Thistle+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='thistlefinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Throstle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Thrush'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='thunder+stones'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tick'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='tin+glass'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Titmouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Toad'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Toad+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='toadpoles'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Toadstone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='tooth+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='topshell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tortoiseshell+cat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='tropic+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Trout'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='trussed+fowl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tumbler'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Tunny'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Turbit'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Turbot'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Turkey'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='turnspit'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Turtle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Turtle+dove'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='turtle+dove'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q168514</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Streptopelia turtur</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Venus´s+ear'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wad'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wall+louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='walrus'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q40994</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Odobenus rosmarus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Wasp'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='water+dog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Water+moth'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='watering+pot'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Waxen+vein'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Weesel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wever'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Whale'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Whale+killer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='whale+killer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wheel+animal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wheel+animal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='whelk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Whet+stone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='whidah'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='whidah+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='whirl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='white+ant'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='white+game'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='white+shark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q129026</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Carcharodon carcharias</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='white+waterwagtail'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='white+whale'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q132072</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Delphinapterus leucas</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Whiting'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wild+boar'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+cock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+cracker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+pecker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+tin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wood+ant'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wood+louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wood+tin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='woodcock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q642855</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Scolopax</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='woodcracker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='woodpecker'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wormshell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wreath'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wren'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Wry+neck'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='wryneck'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q31818</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Jynx</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='yellow+kammer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Zircon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bleak'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='blind+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Blindworm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='blubber'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='blue+lead+ore'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Boat+bill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='boatbill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bohemian+chatterer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bootshake'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Botts'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Boveycoal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bramble'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='breeze'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Brimstone'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='brown+owl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bug'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bull+dog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bull+finch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bull+frog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bull+head'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='bullfinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q25382</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Pyrrhula pyrrhula</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Bullfrog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q159404</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Rana catesbeiana</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Bullhead'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Bunting'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Burbot'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q144700</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Lota lota</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Bustard'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Butter+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='butterfly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q11946202</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Rhopalocera</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='button+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Buzz+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Caddice'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Calamine'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='caltrop'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Camel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cancer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q428243</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Cancer</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Cannel+coal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Capelin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q143359</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Mallotus villosus</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='carp'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='carrier+pigeon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cawk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Chaffinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Chalk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='chassinch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Chatterer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Chert'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='chimney+swallow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Clam'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Coal'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cochineal+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cochinealfly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cock'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cock+of+the+wood'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cock+of+the+wood'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cockle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cockroach'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cod+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Codfish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Coot'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q637533</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Fulica</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='copper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cormoran'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cowry'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q1314137</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Monetaria moneta</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Cowry+shell'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crab'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='crab+louse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q381271</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Pthirus pubis</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Crablouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crampfish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crane+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Craue'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='craw+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Creeper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cricket'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cropper+pigeon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cross+bill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cross+bill'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crow+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crucian'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Crucifix'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cuckow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='cur'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cut+water'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Cuthberts+beads'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dab'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Daker+hen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dakerhen'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Death+watch'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='dew+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Diamond'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dipper'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='dolphin'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='doree'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dormouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dory'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dove'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dragon+fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Duck'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Dudley+fossil'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='dung+beetle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Eagle'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='eagle+owl'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ear+wig'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='ear+wig'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Earth+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='earth+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Eel'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Eiderduck'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Elaterites'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q2187532</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Elaterites</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='Elk'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Elke'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='emery'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Epigenesis'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ermine'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+		<result>
+			<binding name='s'>
+				<uri>http://www.wikidata.org/entity/Q25345</uri>
+			</binding>
+			<binding name='subclass'>
+				<literal>Mustela erminea</literal>
+			</binding>
+		</result>
+	</results>
+</sparql></term>
+<term id='étain+sulfureux'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='extraneous+fossils'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='fairiesfingers'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='falcon'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fallow+deer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Ferret'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='field+mouse'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='field+rat'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Field+spar'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fieldfare'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='fieldlark'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='fieldsare'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fitchet'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Flair'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Flea'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Flint'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Flounder'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='flow+worm'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fluke'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fly'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fly+catcher'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='flycatcher'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Foetus'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='fossile+Tar'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fox'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Frog'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='frog+filsh'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Fullers+earth'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Millers+thumb'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Minow'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='missel+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Missel+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='mock+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Mock+bird'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Mole'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Moon+fish'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Moose+deer'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='Moth'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+<term id='mother+carys+chicken'>
+<sparql>
+	<head>
+		<variable name='s'/>
+		<variable name='subclass'/>
+	</head>
+	<results>
+	</results>
+</sparql></term>
+</root>
